@@ -1,0 +1,3 @@
+colors
+top bar = #ADDFE7
+side bar = #FFF3DF

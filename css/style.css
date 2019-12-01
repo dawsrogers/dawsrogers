@@ -1,0 +1,19 @@
+body {
+	font-family:verdana;
+}
+h1 {
+ color: #696969;
+ font-size: 24px;
+ }
+ .portfolio-thumbnail {
+ background-color: #FFFFFF;
+ border-width: 2px;
+ border-style: solid;
+ border-color: #696969;
+ }
+h2 {
+	color: #696969;
+	font-size: 36px;
+}
+.jumbotron{background-color: #ADDFE7!important;
+				  margin-bottom: 0px;}
